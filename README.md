@@ -15,6 +15,3 @@
  <a href="https://github.com/jihukim135" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
  <a href="https://twitter.com/CK21_JH" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
   <a href="https://jihukim135.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-00A98f?style=flat-square&logoColor=white"/></a>
-  
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihukim135%2F&count_bg=%2326B8D7&title_bg=%233E302D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
