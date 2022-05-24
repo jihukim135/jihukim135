@@ -1,4 +1,4 @@
-##Kim Jihu / jihukim135
+## Kim Jihu / jihukim135 H1
 
 
 👋 Hi there! I'm a newbie game developer studying at ChungKang College of Cultural Industries.
