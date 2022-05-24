@@ -1,3 +1,6 @@
+##Kim Jihu / jihukim135
+
+
 👋 Hi there! I'm a newbie game developer studying at ChungKang College of Cultural Industries.
 
 
