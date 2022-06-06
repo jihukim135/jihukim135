@@ -24,3 +24,6 @@
  <a href="https://github.com/jihukim135" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
  <a href="https://twitter.com/CK21_JH" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
   <a href="https://jihukim135.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-00A98f?style=flat-square&logoColor=white"/></a>
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hoo)](https://solved.ac/hoo/)
