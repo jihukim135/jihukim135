@@ -1,7 +1,7 @@
 ## Kim Jihu / jihukim135
 
 
-👋 Hi there! I'm a newbie game developer studying at ChungKang College of Cultural Industries.
+👋 Hi there! I'm a game developer studied at ChungKang College of Cultural Industries.
 
 
 [![jihukim's github stats](https://github-readme-stats.vercel.app/api?username=jihukim135&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
